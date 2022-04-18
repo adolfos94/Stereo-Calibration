@@ -2,7 +2,7 @@
 
 C++ codes for stereo camera calibration and rectification. The data contained in this example is based on the **IMX219-83 Stereo Camera**.
 
-![IMX219-83 Stereo Images](/res/stereo_example_rect.png "IMX219-83 Stereo Camera")
+![IMX219-83 Stereo Images](./res/stereo_example_rect.png "IMX219-83 Stereo Camera")
 
 ## Build
 
